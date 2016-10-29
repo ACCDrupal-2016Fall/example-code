@@ -4,6 +4,6 @@
 
 - Creating users,Roles, content types
 - Reviewing and changing permissions
-  - Little People
-  - Other people
-- Small things
+  - Custom content Types
+  - Image Styles
+- Display Types
